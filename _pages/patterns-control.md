@@ -1,0 +1,20 @@
+# Control Patterns
+
+| Codependents Often...                                                                       | In Recovery...                                                                                                                             |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Believe people are incapable of taking care of themselves.                                  | I realize that, with rare exceptions, other adults are capable of managing their own lives.                                                |
+| Attempt to convince others what to think, do, or feel.                                      | I accept the thoughts, choices, and feelings of others, even though I may not be comfortable with them.                                    |
+| Freely offer advice and direction without being asked.                                      | I give advice only when asked.                                                                                                             |
+| Become resentful when others decline their help or reject their advice.                     | I am content to see others take care of themselves.                                                                                        |
+| Lavish gifts and favors on those they want to influence.                                    | I carefully and honestly contemplate my motivations when preparing to give a gift.                                                         |
+| Use sexual attention to gain approval and acceptance.                                       | I embrace and celebrate my sexuality as evidence of my health and wholeness. I do not use it to gain the approval of others.               |
+| Have to feel needed in order to have a relationship with others.                            | I develop relationships with others based on equality, intimacy, and balance.                                                              |
+| Demand that their needs be met by others.                                                   | I find and use resources that meet my needs without making demands on others. I ask for help when I need it, without expectation.          |
+| Use charm and charisma to convince others of their capacity to be caring and compassionate. | I behave authentically with others, allowing my caring and compassionate qualities to emerge.                                              |
+| Use blame and shame to exploit others emotionally.                                          | I ask directly for what I want and need and trust the outcome to my Higher Power. I do not try to manipulate outcomes with blame or shame. |
+| Refuse to cooperate, compromise, or negotiate.                                              | I cooperate, compromise, and negotiate with others in a way that honors my integrity.                                                      |
+| Adopt an attitude of indifference, helplessness, authority, or rage to manipulate outcomes. | I treat others with respect and consideration, and trust my Higher Power to meet my needs and desires.                                     |
+| Use recovery jargon in an attempt to control the behavior of others.                        | I use my recovery for my own growth and not to manipulate or control others.                                                               |
+| Pretend to agree with others to get what they want.                                         | My communication with others is authentic and truthful.                                                                                    |
+
+{.table .is-bordered}
